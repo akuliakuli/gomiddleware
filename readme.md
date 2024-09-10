@@ -24,7 +24,7 @@ To run this application, follow the basic Go instructions:
 
 3. Install dependencies
 
-    ``` go mod tidy
+    ```go mod tidy
 
 4. Run the application:
-    ``` go run cmd/middleware-task/main.go
+    ```go run cmd/middleware-task/main.go
